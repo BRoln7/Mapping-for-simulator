@@ -1,0 +1,7 @@
+image: /home/hill/demo07_ws/src/nav_demo/map/room_with_pedestrain.pgm
+resolution: 0.050000
+origin: [-50.000000, -50.000000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
